@@ -1,4 +1,4 @@
-# ASSESSMENT 2: Interview Practice Questions
+<!-- # ASSESSMENT 2: Interview Practice Questions
 
 Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.
 
@@ -58,4 +58,4 @@ Research and define the following terms to the best of your ability.
 - React props
 - event.preventDefault()
 - DOM events
-- MVC
+- MVC -->
